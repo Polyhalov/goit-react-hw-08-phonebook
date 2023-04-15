@@ -1,0 +1,29 @@
+.button{
+    margin-top: 1rem;
+        margin-bottom: 1rem;
+        background-color: cornflowerblue;
+        border: none;
+        border-radius: 6px;
+        color: #fff;
+        flex-grow: 1;
+        font-size: 15px;
+        height: 36px;
+        line-height: 20px;
+        margin-left: 8px;
+        margin-right: 8px;
+        min-width: 50px;
+        max-width: 70px;
+        padding: 0 16px 0 16px;
+        cursor: pointer;
+        display: flex;
+            align-items: center;
+            justify-content: center;
+}
+.wrapper{
+    display: flex;
+    align-items: center;
+}
+.username{
+    font-weight: 700;
+    color: #2a363b;
+}
